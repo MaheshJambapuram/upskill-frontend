@@ -16,7 +16,7 @@ All topics you need to learn about Frontend Development
 - [FlexBox](CSS/flexbox.md)
 - [CSS Grids](CSS/css-grids.md)
 
-## JvaScript
+## JavaScript
 
 ## Version Control Systems
 
